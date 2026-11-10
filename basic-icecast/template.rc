@@ -23,9 +23,9 @@ PROJECT_ARCH="x86_64"
 PROJECT_DESCRIPTION=""	# Optional
 
 # Name and Contact of maintainers. This section is optional
-AUTHOR_NAME="GI Jack"
+AUTHOR_NAME="Network Jack"
 AUTHOR_ORG="" #Organization
-AUTHOR_EMAIL="GI_Jack@hackermail.com"
+AUTHOR_EMAIL="Network_Jack@null.net"
 AUTHOR_GPG_SIG="" 
 
 # space seperated list of additional contact info in the format of
